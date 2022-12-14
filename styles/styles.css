@@ -1,0 +1,19 @@
+.body{
+        background-image: url("sprink.png");
+
+  }
+
+img {width: 1000px;}
+
+body {
+    font-family: "Sofia", sans-serif
+}
+
+ul {
+    list-style-type: square;
+  }
+
+h1, h2, p {
+    text-align: center;
+    color: purple;
+  }
